@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ante523
 - 👀 I’m interested in stars.
-- 🌱 I’m currently learning source control
+- 🌱 I’m currently learning front end dev.
 
 
 <!---
